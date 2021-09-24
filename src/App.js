@@ -6,7 +6,13 @@ const emojiDictionary = {
   "😢": "sad",
   "😠": "angry",
   "😲": "surprised",
-  "🤡": "clown"
+  "🤡": "clown",
+  "🥳": "celebrating",
+  "👽": "alien",
+  "😂": "laughing",
+  "😴": "sleepy",
+  "🤯": "mind-blown",
+ 
 };
 
 const emojisWeKnow = Object.keys(emojiDictionary);
